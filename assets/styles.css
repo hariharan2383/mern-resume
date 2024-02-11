@@ -10,3 +10,8 @@ h2{
 ul{
     color: midnightblue;
 }
+div{
+    width: 350px; 
+    color: black;
+    word-wrap: break-word;
+  }
